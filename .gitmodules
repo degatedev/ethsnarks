@@ -1,14 +1,14 @@
 [submodule "depends/SHA3IUF"]
-	path = depends/SHA3IUF
-	url = https://github.com/harryr/SHA3IUF.git
+        path = depends/SHA3IUF
+        url = https://github.com/degatedev/SHA3IUF.git
 [submodule "depends/json"]
-	path = depends/json
-	url = https://github.com/nlohmann/json.git
+        path = depends/json
+        url = https://github.com/degatedev/json.git
 [submodule "depends/libfqfft"]
-	path = depends/libfqfft
-	url = https://github.com/Loopring/libfqfft.git
-	branch = opt
+        path = depends/libfqfft
+        url = https://github.com/degatedev/libfqfft.git
+        branch = opt
 [submodule "depends/libsnark"]
-	path = depends/libsnark
-	url = https://github.com/Loopring/libsnark.git
-	branch = opt
+        path = depends/libsnark
+        url = https://github.com/degatedev/libsnark.git
+        branch = opt
